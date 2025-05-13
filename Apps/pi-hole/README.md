@@ -1,6 +1,6 @@
 # Pi-hole Multi-Instance Control Dashboard <!-- omit in toc -->
 
-## Table of Contents <!-- omit in toc -->
+## 📖 Table of Contents <!-- omit in toc -->
 
 - [✨ Features](#-features)
 - [🚀 Getting Started](#-getting-started)
