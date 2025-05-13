@@ -96,9 +96,9 @@ All Pi-hole API calls use the `$Secret:pihole` credential object. Make sure this
 
 ## 📸 Screenshots
 
-![Dashboard Overview](assets/pihole/screenshot1.png)
+![Dashboard Overview](../../assets/pihole/screenshot1.png)
 
-![Pi-hole Instance Details](assets/pihole/screenshot2.png)
+![Pi-hole Instance Details](../../assets/pihole/screenshot2.png)
 
 > _You can add screenshots here to illustrate the dashboard UI._
 
