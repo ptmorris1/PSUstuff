@@ -98,7 +98,11 @@ All Pi-hole API calls use the `$Secret:pihole` credential object. Make sure this
 
 ![Dashboard Overview](../../assets/pihole/screenshot1.png)
 
-![Pi-hole Instance Details](../../assets/pihole/screenshot2.png)
+![Pi-hole Instance Details Enabled](../../assets/pihole/screenshot2.png)
+
+![Pi-hole Timer Set](../../assets/pihole/screenshot3.png)
+
+![Pi-hole Instance Details Disabled](../../assets/pihole/screenshot4.png)
 
 
 ## 📁 Files
